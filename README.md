@@ -12,7 +12,7 @@ Matheus Cruz Rm88987
 
 Felipe kim Rm87067
 
-Para rodar o codigo basta intalar as Librarys e rodar o projeto.
+Para rodar o codigo basta instalar as Librarys e rodar o projeto.
 
 pip install requests	
 pip install pipwin	
